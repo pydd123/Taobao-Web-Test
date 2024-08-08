@@ -1,0 +1,460 @@
+2024-08-08 09:43:15,528 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 09:43:15,532 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 09:43:15,532 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 09:43:17,045 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:17,045 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:17,052 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:43:17,074 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：1323
+2024-08-08 09:43:17,119 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:17,119 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:17,125 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:43:17,140 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 09:43:17,195 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:17,195 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:21,366 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 09:43:21,385 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:21,385 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:21,388 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:43:21,408 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：13822223333
+2024-08-08 09:43:21,465 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:21,465 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:21,472 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:43:21,496 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：
+2024-08-08 09:43:21,532 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:21,532 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:21,678 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 09:43:21,701 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:21,701 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:21,713 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:43:21,743 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：
+2024-08-08 09:43:21,790 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:21,790 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:21,801 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:43:21,823 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 09:43:21,887 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:21,887 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:21,928 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 09:43:21,948 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:21,949 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:21,955 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:43:21,980 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：tb961682048
+2024-08-08 09:43:22,021 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:22,021 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:22,027 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:43:22,047 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 09:43:22,095 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:22,095 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:22,159 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 09:43:22,159 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 09:43:22,745 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 09:43:24,800 INFO [root] [base.py (base_if_exist:75] - 是否存在元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 09:43:24,800 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 09:43:24,826 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '退出')
+2024-08-08 09:43:24,826 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '退出')
+2024-08-08 09:43:46,742 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 09:43:46,742 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 09:43:54,734 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 09:43:54,734 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 09:43:54,734 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 09:43:54,734 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 09:43:56,025 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:56,025 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:43:56,037 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:43:56,060 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：tb961682048
+2024-08-08 09:43:56,120 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:56,120 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:43:56,265 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:43:56,289 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 09:43:56,340 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:56,341 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:43:56,439 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 09:43:56,439 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 09:43:58,031 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 09:43:58,031 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 09:44:22,652 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 09:44:22,652 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 09:44:22,676 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 09:44:22,698 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：香蕉
+2024-08-08 09:44:22,749 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 09:44:22,749 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 09:44:22,802 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 09:44:22,802 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 09:44:23,988 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 09:44:23,988 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 09:44:25,132 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 09:44:25,133 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 09:44:29,522 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 09:44:29,522 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 09:44:29,615 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 09:44:29,615 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 09:44:29,623 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 09:44:29,648 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：果酱
+2024-08-08 09:44:29,686 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 09:44:29,686 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 09:44:29,880 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 09:44:29,880 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 09:44:31,865 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 09:44:31,865 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 09:44:33,045 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 09:44:33,046 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 09:44:37,808 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 09:44:37,808 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 09:44:37,986 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 09:44:37,986 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 09:44:37,992 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 09:44:38,015 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：方便面
+2024-08-08 09:44:38,059 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 09:44:38,059 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 09:44:39,957 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 09:44:39,957 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 09:44:40,067 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 09:44:40,070 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 09:44:41,271 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 09:44:41,271 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 09:44:42,540 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 09:44:42,540 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 09:44:42,698 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 09:44:42,698 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 09:44:42,704 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 09:44:42,725 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：水杯
+2024-08-08 09:44:42,763 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 09:44:42,763 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 09:44:44,492 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 09:44:44,492 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 09:44:44,584 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 09:44:44,584 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 09:44:45,855 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 09:44:45,855 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 09:44:47,195 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 09:44:47,195 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 09:44:47,375 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '购物车')
+2024-08-08 09:44:47,375 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '购物车')
+2024-08-08 09:44:48,605 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.ant-checkbox-input')
+2024-08-08 09:44:48,605 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.ant-checkbox-input')
+2024-08-08 09:44:48,710 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn--QDjHtErD')
+2024-08-08 09:44:48,738 INFO [root] [base.py (base_if_exist:75] - 是否存在元素：('css selector', '.btn--QDjHtErD')
+2024-08-08 09:58:45,104 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 09:58:45,104 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 09:58:45,104 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 09:58:46,604 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:58:46,604 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:58:46,614 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:58:46,635 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：1323
+2024-08-08 09:58:46,680 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:58:46,680 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:58:46,686 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:58:46,703 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 09:58:46,764 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:58:46,765 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:58:50,995 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 09:58:51,016 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:58:51,021 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:58:51,027 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:58:51,052 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：13822223333
+2024-08-08 09:58:51,122 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:58:51,122 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:58:51,126 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:58:51,177 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：
+2024-08-08 09:58:51,232 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:58:51,232 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:58:51,318 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 09:58:51,347 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:58:51,347 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:58:51,356 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:58:51,388 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：
+2024-08-08 09:58:51,436 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:58:51,436 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:58:51,446 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:58:51,466 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 09:58:51,544 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:58:51,544 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:58:51,594 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 09:58:51,612 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:58:51,612 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 09:58:51,620 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 09:58:51,642 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：tb961682048
+2024-08-08 09:58:51,696 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:58:51,696 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 09:58:51,704 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 09:58:51,726 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 09:58:51,786 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:58:51,786 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 09:58:51,850 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 09:58:51,850 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 09:58:52,423 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 09:58:54,481 INFO [root] [base.py (base_if_exist:75] - 是否存在元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 09:58:54,481 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 09:58:54,529 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '退出')
+2024-08-08 09:58:54,529 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '退出')
+2024-08-08 09:58:56,359 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 09:58:56,359 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 10:02:20,958 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 10:02:20,958 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 10:02:20,958 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 10:02:22,684 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:22,684 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:22,692 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:02:22,718 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：1323
+2024-08-08 10:02:22,754 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:22,755 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:22,763 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:02:22,779 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 10:02:22,828 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:22,828 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:26,968 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 10:02:26,985 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:26,985 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:26,989 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:02:27,007 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：13822223333
+2024-08-08 10:02:27,063 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:27,063 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:27,069 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:02:27,088 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：
+2024-08-08 10:02:27,153 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:27,153 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:27,289 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 10:02:27,311 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:27,311 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:27,319 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:02:27,354 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：
+2024-08-08 10:02:27,408 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:27,408 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:27,420 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:02:27,447 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 10:02:27,527 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:27,528 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:27,595 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 10:02:27,619 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:27,619 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:27,624 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:02:27,641 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：tb961682048
+2024-08-08 10:02:27,679 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:27,679 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:27,686 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:02:27,707 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 10:02:27,768 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:27,768 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:27,843 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 10:02:27,843 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 10:02:28,403 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 10:02:30,731 INFO [root] [base.py (base_if_exist:75] - 是否存在元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 10:02:30,731 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 10:02:30,760 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '退出')
+2024-08-08 10:02:30,760 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '退出')
+2024-08-08 10:02:37,281 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 10:02:37,281 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 10:02:44,745 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 10:02:44,745 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 10:02:44,745 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 10:02:44,745 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 10:02:46,379 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:46,379 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:02:46,389 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:02:46,410 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：tb961682048
+2024-08-08 10:02:46,474 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:46,474 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:02:46,606 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:02:46,629 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 10:02:46,691 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:46,691 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:02:46,813 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 10:02:46,815 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 10:02:48,401 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:02:48,401 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:02:53,139 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 10:02:53,139 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 10:02:53,163 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 10:02:53,190 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：香蕉
+2024-08-08 10:02:53,245 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:02:53,246 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:02:53,353 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:02:53,353 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:02:53,404 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:02:53,404 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:02:54,593 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:02:54,594 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:02:55,881 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:02:55,882 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:02:55,936 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 10:02:55,936 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 10:02:55,946 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 10:02:55,969 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：果酱
+2024-08-08 10:02:56,013 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:02:56,013 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:02:59,219 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:02:59,219 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:02:59,320 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:02:59,320 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:03:00,522 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:03:00,522 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:03:02,071 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:03:02,071 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:03:02,258 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 10:03:02,258 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 10:03:02,266 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 10:03:02,292 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：方便面
+2024-08-08 10:03:02,355 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:03:02,355 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:03:04,188 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:03:04,189 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:03:04,307 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:03:04,307 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:03:05,506 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:03:05,506 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:03:06,862 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:03:06,862 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:03:07,022 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 10:03:07,022 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 10:03:07,029 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 10:03:07,055 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：水杯
+2024-08-08 10:03:07,107 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:03:07,107 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:03:18,828 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:03:18,828 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:03:18,915 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:03:18,915 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:03:20,136 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:03:20,137 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:03:21,561 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:03:21,561 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:03:21,757 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '购物车')
+2024-08-08 10:03:21,757 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '购物车')
+2024-08-08 10:03:23,570 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.ant-checkbox-input')
+2024-08-08 10:03:23,570 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.ant-checkbox-input')
+2024-08-08 10:03:23,721 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn--QDjHtErD')
+2024-08-08 10:03:23,732 INFO [root] [base.py (base_if_exist:75] - 是否存在元素：('css selector', '.btn--QDjHtErD')
+2024-08-08 10:12:29,799 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 10:12:29,800 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 10:12:29,800 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 10:12:31,772 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:31,772 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:31,798 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:12:31,822 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：1323
+2024-08-08 10:12:31,874 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:31,874 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:31,882 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:12:31,901 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 10:12:31,966 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:31,966 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:36,088 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 10:12:36,102 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:36,102 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:36,105 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:12:36,121 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：13822223333
+2024-08-08 10:12:36,176 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:36,176 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:36,182 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:12:36,200 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：
+2024-08-08 10:12:36,226 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:36,226 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:36,268 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 10:12:36,282 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:36,284 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:36,290 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:12:36,340 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：
+2024-08-08 10:12:36,381 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:36,381 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:36,388 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:12:36,411 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 10:12:36,460 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:36,460 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:36,524 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.login-error-msg')
+2024-08-08 10:12:36,539 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:36,539 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:36,544 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:12:36,560 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：tb961682048
+2024-08-08 10:12:36,594 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:36,594 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:36,604 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:12:36,626 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 10:12:36,683 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:36,684 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:36,741 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 10:12:36,741 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 10:12:37,294 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 10:12:39,392 INFO [root] [base.py (base_if_exist:75] - 是否存在元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 10:12:39,393 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.site-nav-login-info-nick')
+2024-08-08 10:12:39,428 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '退出')
+2024-08-08 10:12:39,428 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '退出')
+2024-08-08 10:12:41,443 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 10:12:41,443 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 10:12:50,231 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 10:12:50,231 INFO [root] [base.py (__init__:14] - 初始化driver
+2024-08-08 10:12:50,231 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '亲，请登录')
+2024-08-08 10:12:50,231 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '亲，请登录')
+2024-08-08 10:12:51,692 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:51,692 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-id')
+2024-08-08 10:12:51,700 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-id')内容
+2024-08-08 10:12:51,820 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-id')正在输入内容：tb961682048
+2024-08-08 10:12:51,875 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:51,875 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'fm-login-password')
+2024-08-08 10:12:51,883 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'fm-login-password')内容
+2024-08-08 10:12:51,897 INFO [root] [base.py (base_input:58] - 元素('id', 'fm-login-password')正在输入内容：159258wssb@
+2024-08-08 10:12:51,959 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:51,960 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.fm-button.fm-submit.password-login')
+2024-08-08 10:12:52,136 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 10:12:52,136 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.dialog-btn.dialog-btn-feedback.primary')
+2024-08-08 10:12:53,207 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:12:53,208 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:12:58,358 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 10:12:58,358 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 10:12:58,381 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 10:12:58,400 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：香蕉
+2024-08-08 10:12:58,443 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:12:58,443 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:12:58,601 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:12:58,602 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:12:58,656 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:12:58,656 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:12:59,873 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:12:59,873 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:13:01,550 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:13:01,550 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:13:01,619 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 10:13:01,619 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 10:13:01,641 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 10:13:01,665 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：果酱
+2024-08-08 10:13:01,709 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:13:01,709 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:13:03,586 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:13:03,586 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:13:03,758 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:13:03,758 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:13:04,921 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:13:04,921 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:13:06,515 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:13:06,515 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:13:06,691 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 10:13:06,691 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 10:13:06,700 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 10:13:06,724 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：方便面
+2024-08-08 10:13:06,779 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:13:06,779 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:13:06,984 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:13:06,984 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:13:08,892 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:13:08,892 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:13:10,057 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:13:10,057 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:13:14,603 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:13:14,603 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:13:14,768 INFO [root] [base.py (base_input:52] - 正在查找元素：('id', 'q')
+2024-08-08 10:13:14,768 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('id', 'q')
+2024-08-08 10:13:14,777 INFO [root] [base.py (base_input:55] - 正在清空元素('id', 'q')内容
+2024-08-08 10:13:14,801 INFO [root] [base.py (base_input:58] - 元素('id', 'q')正在输入内容：水杯
+2024-08-08 10:13:14,846 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.btn-search')
+2024-08-08 10:13:14,846 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn-search')
+2024-08-08 10:13:15,012 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:13:15,012 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', "[data-spm-click='gostr=/newpcsearch.item_search.pc_taobao_tab_cli;locaid=dpc_taobao;']")
+2024-08-08 10:13:16,733 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:13:16,733 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.MainPic--mainPic--rcLNaCv')
+2024-08-08 10:13:17,905 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:13:17,906 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.SkuContent--valueItem--1Q1b8S3')
+2024-08-08 10:13:19,241 INFO [root] [base.py (base_click:38] - 正在点击元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:13:19,241 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('xpath', "//div[@class='Actions--leftButtons--2fasaTH']/button[2]")
+2024-08-08 10:13:19,426 INFO [root] [base.py (base_click:38] - 正在点击元素：('partial link text', '购物车')
+2024-08-08 10:13:19,426 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('partial link text', '购物车')
+2024-08-08 10:13:20,541 INFO [root] [base.py (base_click:38] - 正在点击元素：('css selector', '.ant-checkbox-input')
+2024-08-08 10:13:20,542 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.ant-checkbox-input')
+2024-08-08 10:13:20,651 INFO [root] [base.py (base_find_element:33] - 正在查找元素：('css selector', '.btn--QDjHtErD')
+2024-08-08 10:13:20,673 INFO [root] [base.py (base_if_exist:75] - 是否存在元素：('css selector', '.btn--QDjHtErD')

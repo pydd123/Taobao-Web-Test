@@ -1,0 +1,6 @@
+{
+  "login_001": {"username": "1323", "pwd": "159258wssb@", "expect_result": "账密错误", "success": false},
+  "login_002": {"username": "13822223333", "pwd": "", "expect_result": "请输入密码", "success": false},
+  "login_003": {"username": "", "pwd": "159258wssb@", "expect_result": "请输入账号名", "success": false},
+  "login_004": {"username": "tb961682048", "pwd": "159258wssb@", "expect_result": "", "success": true}
+}
